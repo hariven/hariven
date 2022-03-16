@@ -19,7 +19,7 @@ Email: nhariven@gmail.com
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Bootstrap, Wordpress
+Javascript, HTML, CSS, Bootstrap, Wordpress, Git
 
 
 ## 🔗 Links
